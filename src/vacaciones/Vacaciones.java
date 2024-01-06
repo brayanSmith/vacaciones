@@ -66,7 +66,7 @@ public class Vacaciones {
                 System.out.println("Revise que no halla digitado mal algun dato");
             }
 
-            System.out.println("[1] reiniciar / [2] salir");
+            System.out.println("[1] reiniciar - [2] salir");
             
             reiniciar = in.nextInt();
 
